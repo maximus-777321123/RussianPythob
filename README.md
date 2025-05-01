@@ -19,8 +19,7 @@
 ## Установка
 
 ```bash
-pip install ursina pillow
-# g4f подключается отдельно: https://github.com/xtekky/gpt4free
+pip install ursina pillow g4f
 ```
 
 ## Пример
